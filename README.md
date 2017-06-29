@@ -7,7 +7,8 @@
 
 ##### Technologies used: ####### Java 8 ####### Eclipse ####### Maven
 
-Here I have uploaded the source code and executable jar as well. If you want to run the code please execute the jar. You can also run the raw code from eclipse as well.
+Here I have uploaded the source code and executable jar as well. If you want to run the code please execute the jar. You can also run the raw code from eclipse as well. Here I did'nt use any hard coded input parameters and that's why I used confg.properties configuration file. For testing you can change any input parameters and you don't need to build the jar again.This is the benefit of reading input from configuration file. Normally during PROD environment, if we can manage the configuration properly, lots of time we can avoid re deployment for minor changes.
+
 #### Instructions to execute the jar:
  	You have to configure the config.properties file to run the jar.
 	- For question 1: iptextfile_lcation i.e. the text file where the list of ips will be supplied to validate
