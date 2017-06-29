@@ -7,7 +7,7 @@
 
 ##### Technologies used: ####### Java 8 ####### Eclipse ####### Maven
 
-
+Here I have uploaded the source code and executable jar as well. If you want to run the code please execute the jar. You can also run the raw code from eclipse as well.
 #### Instructions to execute the jar:
  	You have to configure the config.properties file to run the jar.
 	- For question 1: iptextfile_lcation i.e. the text file where the list of ips will be supplied to validate
