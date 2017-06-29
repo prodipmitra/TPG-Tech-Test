@@ -1,14 +1,14 @@
 # TPG-Tech-Test
 
-#### Created by Prodip Mitra(PM) on 30 June 2017
-## Purpose: Technical test - submitted to TPG
-## Jar file name: tpg.tech.test-1.0-SNAPSHOT-jar-with-dependencies.jar
-## version : 1.0
+##### Author:Prodip Mitra(PM)
+##### Purpose: a) Validate a list of ips, b) sort a list of students  and c) Measure the time for execution of a method in a class
+##### Module: tpg.tech.test-1.0-SNAPSHOT-jar-with-dependencies.jar
+##### version : 1.0
 
-## Technologies used:
-  ### Java 8
-  ## Eclipse 
-  ## Maven
+##### Technologies used:
+  ####### Java 8
+  ####### Eclipse 
+  ####### Maven
 
 
 #### Instructions to execute the jar:
