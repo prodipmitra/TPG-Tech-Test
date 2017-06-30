@@ -1,0 +1,26 @@
+[30/06/17 12:31:50:050 AEST]  INFO pm.TpgTechTest: [doIpValidation] List of input ips for validation:
+[30/06/17 12:31:50:050 AEST]  INFO pm.TpgTechTest: [doIpValidation] Tolal valid ips=2
+ Valid Ips:
+[30/06/17 12:31:50:050 AEST]  INFO pm.TpgTechTest: [main] Time requied to complete[IP validation]in Mili seconds: 11
+[30/06/17 12:56:26:026 AEST]  INFO pm.TpgTechTest: [doIpValidation] List of input ips for validation:
+[30/06/17 12:56:26:026 AEST]  INFO pm.TpgTechTest: [doIpValidation] Tolal valid ips=2
+ Valid Ips:
+[30/06/17 12:56:26:026 AEST]  INFO pm.TpgTechTest: [main] Time requied to complete[IP validation]in Mili seconds: 15
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: 33
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: 85
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: 56
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: 19
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: 22
+[30/06/17 12:56:32:032 AEST]  INFO pm.TpgTechTest: [main] Time requied to complete[Sort Students by GPA]in Mili seconds: 22
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: 33
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: 85
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: 56
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: 19
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: 22
+[30/06/17 01:00:40:040 AEST]  INFO pm.TpgTechTest: [main] Time requied to complete[Sort Students by GPA]in Mili seconds: 9
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: 33
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: 85
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: 56
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: 19
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: 22
+[30/06/17 01:00:45:045 AEST]  INFO pm.TpgTechTest: [main] Time requied to complete[Sort Students by GPA]in Mili seconds: 32
